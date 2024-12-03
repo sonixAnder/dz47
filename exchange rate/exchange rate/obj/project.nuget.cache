@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNtod7DEgDE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SSoni\\Desktop\\exchange rate\\exchange rate\\exchange rate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SSoni\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}

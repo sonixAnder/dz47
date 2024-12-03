@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\bin\Debug\net8.0\XmlTextWriter.exe
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\bin\Debug\net8.0\XmlTextWriter.deps.json
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\bin\Debug\net8.0\XmlTextWriter.runtimeconfig.json
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\bin\Debug\net8.0\XmlTextWriter.dll
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\bin\Debug\net8.0\XmlTextWriter.pdb
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\XmlTextWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\XmlTextWriter.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\XmlTextWriter.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\XmlTextWriter.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\XmlTextWriter.dll
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\refint\XmlTextWriter.dll
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\XmlTextWriter.pdb
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\XmlTextWriter.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\XmlTextWriter\XmlTextWriter\obj\Debug\net8.0\ref\XmlTextWriter.dll

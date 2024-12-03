@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Orders>
+  <Order OrderId="101">
+    <CustomerName>Иван Иванов</CustomerName>
+    <OrderDate>2024-12-03</OrderDate>
+    <Items>
+      <Item>
+        <Name>Ноутбук Lenovo</Name>
+        <Quantity>2</Quantity>
+        <Price>1000,50</Price>
+      </Item>
+      <Item>
+        <Name>Вентилятор</Name>
+        <Quantity>1</Quantity>
+        <Price>200,00</Price>
+      </Item>
+    </Items>
+  </Order>
+  <Order OrderId="102">
+    <CustomerName>Мария Петрова</CustomerName>
+    <OrderDate>2024-12-01</OrderDate>
+    <Items>
+      <Item>
+        <Name>Куртка</Name>
+        <Quantity>3</Quantity>
+        <Price>300,75</Price>
+      </Item>
+      <Item>
+        <Name>Штаны</Name>
+        <Quantity>5</Quantity>
+        <Price>250,00</Price>
+      </Item>
+    </Items>
+  </Order>
+</Orders>

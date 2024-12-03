@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\bin\Debug\net8.0\HouseBuildingApp.exe
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\bin\Debug\net8.0\HouseBuildingApp.deps.json
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\bin\Debug\net8.0\HouseBuildingApp.runtimeconfig.json
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\bin\Debug\net8.0\HouseBuildingApp.dll
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\bin\Debug\net8.0\HouseBuildingApp.pdb
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\HouseBuildingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\HouseBuildingApp.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\HouseBuildingApp.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\HouseBuildingApp.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\HouseBuildingApp.dll
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\refint\HouseBuildingApp.dll
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\HouseBuildingApp.pdb
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\HouseBuildingApp.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\HouseBuildingApp\HouseBuildingApp\obj\Debug\net8.0\ref\HouseBuildingApp.dll

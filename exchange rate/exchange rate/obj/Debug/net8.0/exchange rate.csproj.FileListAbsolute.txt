@@ -1,0 +1,17 @@
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\bin\Debug\net8.0\exchange rate.exe
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\bin\Debug\net8.0\exchange rate.deps.json
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\bin\Debug\net8.0\exchange rate.runtimeconfig.json
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\bin\Debug\net8.0\exchange rate.dll
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\bin\Debug\net8.0\exchange rate.pdb
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.csproj.AssemblyReference.cache
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange.4CB85231.Up2Date
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.dll
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\refint\exchange rate.dll
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.pdb
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\exchange rate.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\exchange rate\exchange rate\obj\Debug\net8.0\ref\exchange rate.dll
